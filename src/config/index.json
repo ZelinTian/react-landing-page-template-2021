@@ -27,8 +27,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "GET IN TOUCH",
+    "subtitle": " with us",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -56,9 +56,9 @@
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "about us ",
+    "subtitle": "We deliver scalable Tech Solutions",
+    "description": "We are the expert partner you need to deliver scalable, innovative, and competitive results. From fully managed Delivery Teams to individual expert software engineers, we specialize in solid end-to-end delivery of tailor-made technology solutions.",
     "items": [
       {
         "name": "React.js",
